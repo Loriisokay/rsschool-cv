@@ -15,7 +15,7 @@
 *lee_larissa* 
 
 ## About me
-I am an aspiring rookie developer based in Almaty, Kazakhstan. There is nothing more exciting than learning new things! The thing that I now strive to master is web-development. Choosing the path of learning this truly magical technology, I've focused not only on the acquiring the essential stack, but also on the improvement of my problem-solving skills. Moreover, I work on becoming a better companion for my future colleagues. Right now, my main goal is to become a real professional in the field and I will not stop until I achieve it!
+I am an aspiring rookie developer based in Almaty, Kazakhstan. There is nothing more exciting than learning new things! The thing that I now strive to master is web-development. Choosing the path of learning this truly magical technology, I've focused not only on the acquiring the essential stack, but also on the improvement of my problem-solving skills. Moreover, I have been working on becoming a better companion for my future colleagues. Right now, my main goal is to become a real professional in the field and I will not stop until I achieve it!
 
 ## Skills
 * HTML
@@ -44,3 +44,7 @@ I have no prior commercial experience, but here are several projects I have done
 * FreeCodeCamp's Responsive Web Design course.
 * FreeCodeCamp's JavaScript Algorithms and Data Structures course.
 
+## Languages
+
+* __Russian__ - native language
+* __English__ - C1
