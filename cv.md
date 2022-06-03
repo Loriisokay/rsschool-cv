@@ -34,3 +34,13 @@ function game() {
 console.log(game())
 ```
 
+## Work experience 
+I have no prior commercial experience, but here are several projects I have done throughout my studies:
+* https://github.com/Loriisokay/Passengers-counting-app.git
+* https://github.com/Loriisokay/Blackjack-app-.git
+
+## Education
+* CS50X. Harvard's introduction to the intellectual enterprises of computer science and the art of programming.
+* FreeCodeCamp's Responsive Web Design course.
+* FreeCodeCamp's JavaScript Algorithms and Data Structures course.
+
